@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danesh506.github.io/nookaraju-enterprises/sitemap.xml
